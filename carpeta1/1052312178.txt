@@ -1,2 +1,6 @@
  stiwen fernandez
+<<<<<<< HEAD
 holaaaaaaaaaaaaaaa
+=======
+brayan ojeda
+>>>>>>> pruebas
